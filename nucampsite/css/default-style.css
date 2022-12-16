@@ -19,7 +19,7 @@ body {
 }
 
 .jumbotron {
-    padding: 30px;
+    padding: 20px;
      background-color: #3A2226;
   /*  background-image: linear-gradient(to right, #220D32, #3D222D, #303639); */
 
@@ -215,3 +215,4 @@ label {
 .loginbttm {
     padding: 0px;
 }
+
