@@ -1,6 +1,6 @@
 body {
-    background-color: transparent;  /* #223D32;*/
-    background-image: url('/img/office-building.jpg');
+    background-color: #A8A8A8;  /* #223D32;*/
+    /*background-image: url('/img/office-building.jpg'); */
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: 113rem;
@@ -12,9 +12,11 @@ body {
 
 .header-bg-style {
     
-    border-color: #bf7480; /* red */
-    border-width: 3em;
-    border-bottom-style: outset;
+    background-color: #b96a76; /* red */ 
+    margin-top: -2rem;
+    color: #ECF0F5;
+   /*  border-width: 0.5em; */
+  /*  border-bottom-style: outset; */
      /* #4cb69f  for sub menu */
 }
 
@@ -26,12 +28,19 @@ body {
 
  }
 
-#middle-section {
+ 
 
+#middle-section {
+    margin-top: 6rem;
 }
 
 .adjust-topm {
 
+}
+
+.form-width {
+ width: 10rem;
+ color: rgb(139, 127, 127);
 }
 
 footer {
