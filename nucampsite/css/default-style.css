@@ -32,10 +32,20 @@ body {
 
 #middle-section {
     margin-top: 6rem;
+    background-color: rgba(238, 242, 247, 0.75);
+    padding: 2rem;
+    width: 96%;
+    border-radius: 2.5rem;
+
 }
 
-.adjust-topm {
+.middle-section2 {
 
+    margin-top: 6rem;
+    background-color: #e1859370; 
+    padding: 2rem;
+    width: 96%;
+    border-radius: 2.5rem;
 }
 
 .form-width {
@@ -50,7 +60,7 @@ footer {
   /* background-image: linear-gradient(to right, #220D32, #3D222D, #303639);  */
   background-color: #3A2226;
   padding: 20px 0;
-    margin-top: 400px;
+    margin-top: 180px;
     min-height: 12em;
 }
 
@@ -66,10 +76,7 @@ button {
     background-color: transparent; /* #3D222D; */
     text-align: center;
     color: grey;
-    /*
-    border-style: outset;
-    border-width: 0.3em;
-    border-color: #6C6C6C; */
+    border-radius: 2.54rem;
     align-items: center;
     
 
