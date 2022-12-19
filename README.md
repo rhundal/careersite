@@ -1,3 +1,3 @@
 # Careersite
 
-- Currently building UI for this project using Bootstrap 5.  
+- Currently building UI using Bootstrap 5.  
