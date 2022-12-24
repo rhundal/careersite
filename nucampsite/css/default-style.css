@@ -20,6 +20,23 @@ body {
      /* #4cb69f  for sub menu */
 }
 
+.header-bg-style2 {
+
+    background-color: #901e2d; /* red */ 
+    margin-top: -2rem;
+    color: #12161a;
+}
+
+.header-bg-style3 {
+
+    background-color: #98B4D4; /* red */ 
+    margin-top: -2rem;
+    color: #12161a;
+}
+
+
+
+
 .jumbotron {
     padding: 20px;
      background-color: #3A2226;
@@ -28,6 +45,21 @@ body {
 
  }
 
+ .jumbotron2 {
+    padding: 20px;
+     background-color: #507182;
+  /*  background-image: linear-gradient(to right, #220D32, #3D222D, #303639); */
+
+
+ }
+
+ .jumbotron3 {
+    padding: 20px;
+     background-color: #4f7fa1
+  /*  background-image: linear-gradient(to right, #220D32, #3D222D, #303639); */
+
+
+ }
  
 
 #middle-section {
