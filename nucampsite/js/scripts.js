@@ -1,17 +1,14 @@
 
+const searchBtn1 = document.getElementsByClassName('searchBtn');
 
-$(document).ready(function () {
+$("#middle-section").hide();
 
+searchBtn1[0].addEventListener('click', function onClick() {
 
-  $("#middle-section").hide();
-
-  $("#searchBtn").click(function () {
-
-
-    $("#middle-section").slideDown("slow");
-
-  });
-
+  $("#middle-section").show();
 
 });
+
+
+
 
