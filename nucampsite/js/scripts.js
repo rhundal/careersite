@@ -5,7 +5,7 @@ $("#middle-section").hide();
 
 searchBtn1[0].addEventListener('click', function onClick() {
 
-  $("#middle-section").show();
+  $("#middle-section").slideDown(1400);
 
 });
 
