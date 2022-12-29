@@ -1,11 +1,17 @@
 
 
+$(document).ready(function () {
 
-$(document).ready(function(){
-    $(".searchBtn").click(function(){
-        $('#middle-section').slideToggle("slow");
-      alert("Hello");
-    });
+
+  $("#middle-section").hide();
+
+  $("#searchBtn").click(function () {
+
+
+    $("#middle-section").slideDown("slow");
+
   });
 
-  
+
+});
+
