@@ -1,66 +1,73 @@
 body {
-    background-color: #A8A8A8;  /* #223D32;*/
+    background-color: #A8A8A8;
+    /* #223D32;*/
     /*background-image: url('/img/office-building.jpg'); */
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: 113rem;
-   /* background-position-y: 18rem; */
+    /* background-position-y: 18rem; */
 
     font-family: 'Roboto', sans-serif;
-    color:  grey;
+    color: grey;
 }
 
 .header-bg-style {
-    
-    background-color: #b96a76; /* red */ 
+
+    background-color: #b96a76;
+    /* red */
     margin-top: -2rem;
     color: #ECF0F5;
-   /*  border-width: 0.5em; */
-  /*  border-bottom-style: outset; */
-     /* #4cb69f  for sub menu */
+    /*  border-width: 0.5em; */
+    /*  border-bottom-style: outset; */
+    /* #4cb69f  for sub menu */
 }
 
 .header-bg-style2 {
 
-    background-color: #901e2d; /* red */ 
+    background-color: #901e2d;
+    /* red */
     margin-top: -2rem;
     color: #12161a;
 }
 
 .header-bg-style3 {
 
-    background-color: #98B4D4; /* red */ 
+    background-color: #98B4D4;
+    /* red */
     margin-top: -2rem;
     color: #12161a;
 }
 
+.h5 {
 
+    color: #901e2d;
+}
 
 
 .jumbotron {
     padding: 20px;
-     background-color: #3A2226;
-  /*  background-image: linear-gradient(to right, #220D32, #3D222D, #303639); */
+    background-color: #3A2226;
+    /*  background-image: linear-gradient(to right, #220D32, #3D222D, #303639); */
 
 
- }
+}
 
- .jumbotron2 {
+.jumbotron2 {
     padding: 20px;
-     background-color: #507182;
-  /*  background-image: linear-gradient(to right, #220D32, #3D222D, #303639); */
+    background-color: #507182;
+    /*  background-image: linear-gradient(to right, #220D32, #3D222D, #303639); */
 
 
- }
+}
 
- .jumbotron3 {
+.jumbotron3 {
     padding: 20px;
-     background-color: #4f7fa1
-  /*  background-image: linear-gradient(to right, #220D32, #3D222D, #303639); */
+    background-color: #4f7fa1
+        /*  background-image: linear-gradient(to right, #220D32, #3D222D, #303639); */
 
 
- }
- 
+}
+
 
 #middle-section {
     margin-top: 6rem;
@@ -73,25 +80,25 @@ body {
 
 .middle-section2 {
 
-    margin-top: 6rem;
-    background-color: #e1859370; 
+    margin-top: 3.5rem;
+    background-color: #e1859370;
     padding: 2rem;
     width: 96%;
     border-radius: 2.5rem;
 }
 
 .form-width {
- width: 10rem;
- color: rgb(139, 127, 127);
+    width: 10rem;
+    color: rgb(139, 127, 127);
 }
 
 footer {
 
-  /*  background-image: linear-gradient(to right, #220D32, #3D222E, #647781); */
+    /*  background-image: linear-gradient(to right, #220D32, #3D222E, #647781); */
 
-  /* background-image: linear-gradient(to right, #220D32, #3D222D, #303639);  */
-  background-color: #3A2226;
-  padding: 20px 0;
+    /* background-image: linear-gradient(to right, #220D32, #3D222D, #303639);  */
+    background-color: #3A2226;
+    padding: 20px 0;
     margin-top: 180px;
     min-height: 12em;
 }
@@ -102,15 +109,19 @@ button {
     color: grey;
 
 }
-.candidate-pool-style, .job-pool-style, .company-pool-style {
+
+.candidate-pool-style,
+.job-pool-style,
+.company-pool-style {
 
 
-    background-color: transparent; /* #3D222D; */
+    background-color: transparent;
+    /* #3D222D; */
     text-align: center;
     color: grey;
     border-radius: 2.54rem;
     align-items: center;
-    
+
 
 }
 
@@ -120,6 +131,7 @@ button {
     margin-left: 10rem;
 
 }
+
 .table-cherry {
     background-color: #8a9641;
 
@@ -146,7 +158,7 @@ button {
     background: #3A2226;
     text-align: center;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
- }
+}
 
 .login-key {
     height: 100px;
@@ -251,7 +263,7 @@ label {
     padding: 10px;
     padding-right: 50px;
     text-align: right;
-    margin-bottom:5px;
+    margin-bottom: 5px;
 }
 
 .login-text {
@@ -263,4 +275,3 @@ label {
 .loginbttm {
     padding: 0px;
 }
-
