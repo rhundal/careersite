@@ -1,3 +1,3 @@
 # Careersite
 
-- Built UI using Bootstrap 5.  
+- Built UI using Bootstrap 4.6.2. 
